@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "say-hello"
+name = "gete-say-hello"
 version = "0.1.0"
