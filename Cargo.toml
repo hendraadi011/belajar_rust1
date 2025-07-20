@@ -2,5 +2,7 @@
 name = "say-hello"
 version = "0.1.0"
 edition = "2024"
+description = "This is say hello libary"
+license = "Apache-2.0"
 
 [dependencies]
